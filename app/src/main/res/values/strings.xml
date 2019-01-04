@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="com_twitter_sdk_android_CONSUMER_KEY">LNwtuPFtsLdINaNoSgmNnzR25</string>
+    <string name="com_twitter_sdk_android_CONSUMER_SECRET">mwGP3YrIK2YpPI3R8voG04t9VPdPiSweBy2fr0zQI6H3RlMZEE</string>
+</resources>
